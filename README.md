@@ -1,4 +1,4 @@
-<!--h1 without bottom border-->
+<!-- Oscar Baez 2024 -->>
 <br>
 <div id="user-content-toc">
   <ul align="left">
@@ -20,6 +20,7 @@
 - :memo: Contacto oscarossielbaez5@gmail.com:point_left: 
 
 <br>
+<!--Skillls-->
 
 ## 🛠️ Mis habilidades
 
@@ -31,29 +32,49 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Tecnologías conocidas
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> 
+<h2> 
+Tecnologías conocidas
+</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,mysql,npm,vite,vscode,sublime,windows," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,mysql,npm,vite,windows," />
   </a>
 </p>
 
-<br>
-<br>
 
+<!--IDEs -->
+
+### 💻 IDEs/Editores
+
+<p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>   
+ <a href="https://netbeans.apache.org/" target="_blank"> 
+    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
+  </a>
+ <a href="https://www.sublimetext.com/" target="_blank"> 
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
+  </a>
+</p>
+<br>
+<br>
 <br><br>
+
 <!-- footer-->
+
 <p align="center">
 <a href="https://www.linkedin.com/in/oscar-oa-baez-w/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a>:point_left:
+  </a>
   <a href="https://www.facebook.com/oscarrogelio.baez.1" target="_blank">
       <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a>:point_left:
+  </a>
    <a href="https://github.com/" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a>:point_left:
+  </a>
 <p>
 <div align="center">
   :+1:Gracias por ver mi perfil :wink::expressionless: <br/>
