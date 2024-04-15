@@ -8,7 +8,7 @@
 
 <!--About Me-->
 <h1>
-    ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mí
+    #<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mí
 </h1>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
@@ -24,10 +24,10 @@
 <!--Skillls-->
 
 <h2>
-    ## 🛠️ Mis habilidades
+  #🛠️ Mis habilidades
 </h2>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de programación
+#<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de programación
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
 </p>
 
 <h3> 
-    ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Tecnologías conocidas
+    #<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Tecnologías conocidas
 </h3>
 <br>
 <p align="center">
@@ -48,7 +48,7 @@
 
 <!--IDEs -->
 <h3>
-    ### 💻 IDEs/Editores
+    #💻 IDEs/Editores
 </h3>
 
 <p align="center"> 
