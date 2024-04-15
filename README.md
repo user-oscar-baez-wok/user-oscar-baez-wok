@@ -45,7 +45,7 @@
 <br><br>
 <!-- footer-->
 <p align="center">
-  <a href="oscarossielbaez5@gmail.com" >
+  <a href="oscarossielbaez5@gmail.com" target="_blank">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
