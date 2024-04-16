@@ -26,10 +26,9 @@
 <h2>
   #🛠️ Mis habilidades
 </h2>
-
-#<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> 
-
-<h3>Lenguajes de programación</h3>
+<h3>
+#<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de programación
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
