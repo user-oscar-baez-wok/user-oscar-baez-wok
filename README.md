@@ -35,9 +35,9 @@
   </a>
 </p>
 
-<h3> 
+<h2> 
     #<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Tecnologías conocidas
-</h3>
+</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
