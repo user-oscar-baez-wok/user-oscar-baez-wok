@@ -18,7 +18,7 @@
 - 📚 Me gusta el desarrollo web, más específicamente el desarrollo front-end.
 - 😅 Soy un programador Jr. en React y JavaScript, actualmente me encuentro practicando con React para mejorar mis habilidades. 
 - 🧐 Me interesa la tecnología y todo lo relacionando al entorno de desarrollo web. 
-- :memo: Contacto oscarossielbaez5@gmail.com:point_left: 
+- :memo: Contacto oscargbaez1999@gmail.com:point_left: 
 
 <br>
 <!--Skillls-->
