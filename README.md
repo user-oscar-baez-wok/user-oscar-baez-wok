@@ -109,7 +109,7 @@
       src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"
     />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/user-oscar-baez-wok" target="_blank">
     <img
       align="center"
       alt="TienHuynh-TN | GitHub"
