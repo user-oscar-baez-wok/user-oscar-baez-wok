@@ -17,7 +17,7 @@
 - 🌏 Soy de San Luis Potosí, México.
 - 📚 Me gusta el desarrollo web, más específicamente el desarrollo front-end.
 - 😅 Soy un programador Jr. en React y JavaScript, actualmente me encuentro practicando con React para mejorar mis habilidades. 
-- 🧐 Me interesa la tecnología y todo lo relacionando al entorno de desarrollo web. 
+- 🧐 Me interesa la tecnología y todo lo relacionado al entorno de desarrollo web. 
 - :memo: Contacto oscargbaez1999@gmail.com:point_left: 
 
 <br>
